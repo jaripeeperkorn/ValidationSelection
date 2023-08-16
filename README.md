@@ -2,4 +2,4 @@
 
 [[Under construction]]
 
-The models folder contains the Petri Net files used in the experimental evaluation. 
+The ``Models'' folder contains the Petri Net files used in the experimental evaluation. 
